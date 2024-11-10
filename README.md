@@ -13,7 +13,7 @@ This Python script deletes all projects and folders under a given parent folder 
 ## Usage
 ### Run the script:
 ```Bash
-python gcp_cleaner.py --parent <parent_folder_id>
+python gcp_folder_cleaner.py --parent <parent_folder_id>
 ```
 Replace `<parent_folder_id>` with the actual ID of your GCP parent folder.
 
